@@ -1,0 +1,58 @@
+body
+{
+	 background: linear-gradient(to right, #00CED1 , blue);
+}
+.name
+{
+	margin:0px 0px 0px 100px;
+}
+.username
+{
+	margin-left:75px;
+}
+.password
+{
+	margin-left:78px;
+}
+.confirm
+{
+	margin-left:20px;
+}
+.email
+{
+	margin-left:100px;
+}
+.contact
+{
+	margin-left:30px;
+}
+.submitButton
+{
+	float:left;
+	width:120px;
+	margin-left:70px;
+}
+.editButton
+{
+	position:absolute;
+	left:780px;
+	top:213px;
+	z-index:1;
+	width:120px;
+	/*float:right;*/
+	
+}
+table, td, th {
+    border: 1px solid black;
+}
+.table
+{
+	margin:0 auto;	
+	position:relative;
+	margin-top:200px;
+	border-collapse: collapse;
+}
+/*#form
+{
+	visibility:hidden;
+}*/
